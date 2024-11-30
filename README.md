@@ -6,7 +6,7 @@
 
 
 	
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Sobre mi</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Sobre mi</b>
 <br>
 <br>
 
@@ -65,7 +65,7 @@ Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo 
 <br>
 <br>
 
-## <b> Mis contactos...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<h3><b>Mis Contactos..!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 <br>
 <div align='left'>
 
