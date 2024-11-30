@@ -51,7 +51,7 @@ Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo 
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>Github</b>
 <br>
 
 <p> Nada por el momento :(</p>
