@@ -75,7 +75,7 @@ Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo 
 
 <li>
 <a href="www.linkedin.com/in/leonardo-berni-7a5595219" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Leonardo-Berni-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
