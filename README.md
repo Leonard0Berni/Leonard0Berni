@@ -23,13 +23,25 @@ Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,graphql,git,github," />
+    <img src="https://skillicons.dev/icons?i=java,spring" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=notion,obsidian,idea,spring,vscode" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,graphql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
   </a>
 </p>
 
