@@ -1,6 +1,5 @@
 
 <h1 align="center"><b>Leonardo</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
 <h1 align="center"><b>Hola, soy desarrollador Backend</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 
@@ -24,7 +23,13 @@ Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,graphql,git,github," />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,obsidian,idea,spring,vscode" />
   </a>
 </p>
 
