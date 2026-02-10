@@ -10,7 +10,9 @@
 <br>
 <br>
 
-Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo de Software. Me apasiona el desarrollo backend y quiero especializarme en Java, Spring Boot, nubes y bases de datos. También estoy interesado en aprender NodeJS y .NET para expandir mis habilidades y adaptarme al mercado tecnológico.
+Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo de Software.
+Busco la especialización en el desarrollo backend con Java - Spring Boot - Aws.
+Junior en todo, Senior en nada. 
 
 <br><br>
 
