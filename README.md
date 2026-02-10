@@ -12,6 +12,7 @@
 
 Soy estudiante próximo a recibir el título de Técnico Superior en Desarrollo de Software.
 Busco la especialización en el desarrollo backend con Java - Spring Boot - Aws.
+
 Junior en todo, Senior en nada. 
 
 <br><br>
